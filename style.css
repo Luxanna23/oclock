@@ -1,0 +1,27 @@
+body {
+    background-image: url("https://w.forfun.com/fetch/54/545a194f87e16829c052c12a3ffc4f3a.jpeg"); 
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    background-attachment: fixed;
+    margin: 0;
+    padding: 0;
+    /* height:800px; */
+}
+h1 {
+    color:rgb(211, 211, 211);
+    text-align: center;
+    margin: 5%;
+    font-size: 350%;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.links {
+    text-align: center;
+    margin: 3%;
+    font-size: 500%;
+}
+i {
+    margin: 2%;
+    color:rgb(211, 211, 211);
+}
